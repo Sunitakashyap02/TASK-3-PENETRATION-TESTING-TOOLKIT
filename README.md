@@ -50,4 +50,6 @@ A clean folder structure using Python packages (modules folder).
 
 A requirements.txt file to install dependencies easily.
 
-*OUTPUT*
+**OUTPUT**
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2a237aeb-fc09-4da5-83a1-2808cc1e761c" />
